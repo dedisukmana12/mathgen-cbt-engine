@@ -1,0 +1,6 @@
+{
+  "name": "MathGen CBT",
+  "description": "Advanced Mathematics Question Generator for CBT/AKM with LaTeX support and template export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
